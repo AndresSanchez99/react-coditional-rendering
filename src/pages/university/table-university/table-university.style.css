@@ -1,0 +1,9 @@
+.table-university-container { 
+    width: 450px;
+    min-height: 1300px;
+    margin: 0 auto ;
+    margin-top: 10px;
+    border: 1px solid black;
+    font-style: oblique;
+   margin-block-end: 10px;
+}
